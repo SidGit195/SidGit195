@@ -60,9 +60,9 @@
   <a href="mailto:sidojha195@gmail.com">
     <img align="center" alt="Siddharth | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://x.com/sid_ojha195" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siddharth" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ojhasiddharth195/" target="blank" rel="noreferrer"><img align="center" src="https://github.com/user-attachments/assets/f38368ce-9bb6-4afe-8447-a2fb2814948d" alt="Siddharth" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/ojhasiddh1m7v/" target="blank" rel="noreferrer"><img align="center" src="https://github.com/user-attachments/assets/ecd0be64-8de9-4bee-9778-6c8a5bcab1c4" alt="Siddharth" height="30" width="40" /></a>
+  <a href="https://x.com/sid_ojha195" target="blank" rel="noreferrer"><img align="center" src="https://github.com/user-attachments/assets/ef163464-153f-40f4-93b2-aeab2c55ff58" alt="Siddharth" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ojhasiddharth195/" target="blank" rel="noreferrer"><img align="center" src="https://github.com/user-attachments/assets/ef552738-6bc2-422e-80fe-aa747419d4cc" alt="Siddharth" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/ojhasiddh1m7v/" target="blank" rel="noreferrer"><img align="center" src="https://github.com/user-attachments/assets/1e27eb1b-e8e8-44ce-bb79-2af5d09545d4" alt="Siddharth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddharth-ojha-8a8068228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-ojha-8a8068228" height="30" width="40" /></a>
 
 
